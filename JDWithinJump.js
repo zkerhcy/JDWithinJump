@@ -6,6 +6,8 @@
 // @author       Zkerhcy
 // @include      *//*.jd.com/*
 // @require      https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js
+// @updateURL    https://raw.githubusercontent.com/zkerhcy/JDWithinJump/master/JDWithinJump.js
+// @downloadURL  https://raw.githubusercontent.com/zkerhcy/JDWithinJump/master/JDWithinJump.js
 // @grant        none
 // ==/UserScript==
 
